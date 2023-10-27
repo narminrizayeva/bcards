@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+}
+.col-4{
+    .iska{
+        margin-top:30px;
+        background-color: red;
+        color: white; 
+        padding: 1%; 
+        text-align: right; 
+        font-size: 20px; 
+        border-radius: 15px; 
+    }
+    h3{
+        font-size: 20px;
+    }
+    border-radius:5%;
+    width: 10px;
+    background-color:lightpink;
+    width: 50px;
+    .nara{
+        color:gray
+    }
+}
+.header{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    .leftside{
+        display: flex;
+        i{
+            font-size: 40px;
+        }
+    }
+    .nara{
+        button{
+            border-radius: 5%;
+            background-color: #FDFBEC;
+            color: #FAE997;
+            border: none;
+        }
+    }
+
+}

@@ -1,0 +1,43 @@
+body {
+  background-color: gray;
+}
+
+.col-4 {
+  border-radius: 5%;
+  width: 10px;
+  background-color: lightpink;
+  width: 50px;
+}
+.col-4 .iska {
+  margin-top: 30px;
+  background-color: red;
+  color: white;
+  padding: 1%;
+  text-align: right;
+  font-size: 20px;
+  border-radius: 15px;
+}
+.col-4 h3 {
+  font-size: 20px;
+}
+.col-4 .nara {
+  color: gray;
+}
+
+.header {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.header .leftside {
+  display: flex;
+}
+.header .leftside i {
+  font-size: 40px;
+}
+.header .nara button {
+  border-radius: 5%;
+  background-color: #FDFBEC;
+  color: #FAE997;
+  border: none;
+}/*# sourceMappingURL=bcards.css.map */
